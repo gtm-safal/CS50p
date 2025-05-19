@@ -60,7 +60,7 @@ python3 path/to/filename.py
 
 📫 Reach me here:
 - [LinkedIn](https://www.linkedin.com/in/gtm-safal/) 
-- [Portfolio](safalgautam.com.np)
+- [Portfolio](https://safalgautam.com.np)
 - [contact@safalgautam.com.np](mailto:contact@safalgautam.com.np)
 
 > 💬 Feel free to connect, collab, or geek out about code. I love hearing from fellow learners and devs!
