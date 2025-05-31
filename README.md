@@ -5,7 +5,25 @@ Welcome to my solutions for [CS50’s Introduction to Programming with Python](h
 This repository includes my completed problem sets, organized by topic/week.
 
 ---
+## 🖼️ Certificate Preview
 
+<img src="https://github.com/gtm-safal/CS50p/blob/main/CS50P.png?raw=true" alt="CS50P Certificate" width="600"/>
+
+---
+
+## 🎬 Final Project – [MovieVault](https://github.com/gtm-safal/CS50p/tree/main/Final%20project)
+
+**MovieVault** is a terminal-based movie manager built in Python. It allows users to:
+
+- 📥 Add movies with title, director, year, and rating  
+- 📃 List all added movies  
+- 🔍 View detailed info of any movie by index  
+- 🧪 Run unit tests using `pytest`  
+- 💾 Store and load data from a CSV file
+
+This project demonstrates file I/O, command-line argument parsing (`argparse`), and defensive programming through error handling.
+
+---
 ## 📚 Topics Covered
 
 - ✅ Functions, Variables, and Conditionals  
